@@ -1,0 +1,9 @@
+.rough {
+    background-color: rgb(255,255,255);
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgb(0 0 0 / 15%);
+    box-sizing: border-box;
+    height: 16px;
+    position: absolute;
+    width: 16px;
+}
